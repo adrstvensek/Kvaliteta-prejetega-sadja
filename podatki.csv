@@ -69,13 +69,13 @@ Datum;Dobavitelj;Sorta;Kvaliteta;Količina [kg]
 29.08.2014;Kodrič Milena;Elstar;I.;931
 30.08.2014;Lah Leon;Royal Gala;I.;1581
 30.08.2014;Molan Mitja;Royal Gala;I.;12134
-28.08.2014;AA 1;Royal Gala;I.;21710
+28.08.2014;AA1;Royal Gala;I.;21710
 29.08.2014;BIF-VORPO;Abate fetel;I.;19498
 29.08.2014;Andrej  Rojc;Abate fetel;I.;2652
 29.08.2014;Univerza MB;Royal Gala;I.;14830
 29.08.2014;Univerza MB;Gala Must;I.;6762
-30.08.2014;AA 2;Royal Gala;I.;22468
-30.08.2014;AA 3;Royal Gala;I.;22450
+30.08.2014;AA2;Royal Gala;I.;22468
+30.08.2014;AA3;Royal Gala;I.;22450
 30.08.2014;Levak Andrej;Royal Gala;I.;18753
 30.08.2014;Levak Andrej;Gala Must;I.;2755
 30.08.2014;BIF-VORPO;Abate fetel;I.;21571
@@ -400,7 +400,7 @@ Datum;Dobavitelj;Sorta;Kvaliteta;Količina [kg]
 20.10.2014;Rupar Bojan;Idared;I.;293
 21.10.2014;Šušterič Vojko;Braeburn;I.;10073
 21.10.2014;Levak Andrej;Braeburn;I.;10013
-21.10.2014;LEvak Andrej;Fuji;I.;3018
+21.10.2014;Levak Andrej;Fuji;I.;3018
 21.10.2014;Levak Andrej;Idared;I.;283
 22.10.2014;Lah Leon;Braeburn;I.;6453
 23.10.2014;Metelko Gabrijel;Jonagold;I.;1032
@@ -448,7 +448,7 @@ Datum;Dobavitelj;Sorta;Kvaliteta;Količina [kg]
 16.10.2014;Rupar Bojan;Idared;I.;293
 17.10.2014;Šušterič Vojko;Braeburn;I.;10073
 18.10.2014;Levak Andrej;Braeburn;I.;10013
-19.10.2014;LEvak Andrej;Fuji;I.;3018
+19.10.2014;Levak Andrej;Fuji;I.;3018
 20.10.2014;Levak Andrej;Idared;I.;283
 21.10.2014;Lah Leon;Braeburn;I.;6453
 22.10.2014;Metelko Gabrijel;Jonagold;I.;1032
@@ -525,7 +525,7 @@ Datum;Dobavitelj;Sorta;Kvaliteta;Količina [kg]
 31.08.2015;Kodrič Milena;Gala;I.;1250
 31.08.2015;Kodrič Milena;Gala;Industrija;674
 31.08.2015;AA2;Royal Gala;I.;19878
-31.08.2015;AA 3;Royal Gala;I.;20621
+31.08.2015;AA3;Royal Gala;I.;20621
 31.08.2015;Molan Mitja;Royal Gala;I.;10160
 31.08.2015;Križančič Franc;Royal Gala;I.;1887
 31.08.2015;Šušterič Vojko;Royal Gala;I.;15389
